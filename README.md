@@ -987,5 +987,6 @@ operationally important answer is the
 timeline — the West has until roughly 2027
 to demonstrate premium software parity, and
 the mass-market verdict is already written.
- 
+
+
 Judgment is final.
