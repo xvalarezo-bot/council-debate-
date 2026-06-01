@@ -1,5 +1,4 @@
 council-debate-
-
 [Prompt]
 Western automakers spent a decade
 dismissing EVs as unprofitable,
